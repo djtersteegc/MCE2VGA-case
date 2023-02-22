@@ -338,7 +338,7 @@
 
   (footprint "LED_SMD:LED_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEF1) (tstamp 93371906-a7ac-489a-a29f-0245be4272fe)
-    (at 128.5934 110.998)
+    (at 128.778 111.379)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
     (attr smd)
@@ -444,7 +444,7 @@
 
   (footprint "SnapEDA Library:SW_TS09-63-25-WT-160-SMT-TR" (layer "F.Cu")
     (tedit 63F24C3A) (tstamp aabe4112-933b-4251-bdfe-df826ae03078)
-    (at 145.288 118.9482)
+    (at 145.288 119.0752)
     (attr smd)
     (fp_text reference "REF**" (at 0.075 -3.385) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
@@ -489,7 +489,7 @@
 
   (footprint "LED_SMD:LED_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEF1) (tstamp b283f31b-dbf3-47fd-88e6-a3b2e365c876)
-    (at 121.8844 110.998)
+    (at 122.047 111.379)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
     (attr smd)
@@ -528,7 +528,7 @@
 
   (footprint "LED_SMD:LED_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEF1) (tstamp bf6fba24-6964-4a6e-b72b-569c3eed12f3)
-    (at 146.304 102.87)
+    (at 146.939 103.27)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
     (attr smd)
@@ -567,7 +567,7 @@
 
   (footprint "LED_SMD:LED_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEF1) (tstamp cba31f82-b515-4314-8797-5e98b2ff47db)
-    (at 135.3024 110.998)
+    (at 135.509 111.379)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
     (attr smd)
@@ -606,7 +606,7 @@
 
   (footprint "LED_SMD:LED_0805_2012Metric" (layer "F.Cu")
     (tedit 5F68FEF1) (tstamp dde80463-3b63-4aec-a3ac-4d465afa91cf)
-    (at 142.0114 110.998)
+    (at 142.24 111.379)
     (descr "LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
     (tags "LED")
     (attr smd)
@@ -645,7 +645,7 @@
 
   (footprint "SnapEDA Library:SW_TS09-63-25-WT-160-SMT-TR" (layer "F.Cu")
     (tedit 63F24C3A) (tstamp e22d53a9-0c58-4f18-8b19-9b7687a1783d)
-    (at 119.7356 118.9482)
+    (at 119.7356 119.0752)
     (attr smd)
     (fp_text reference "REF**" (at 0.075 -3.385) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
